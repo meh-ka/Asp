@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "model-binding-attributes/1.0.0": {
+        "runtime": {
+          "model-binding-attributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "model-binding-attributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

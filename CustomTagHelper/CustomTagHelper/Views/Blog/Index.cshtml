@@ -1,0 +1,25 @@
+﻿@addTagHelper *,CustomTagHelper
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+    <!--  <a href="tel:0782522236" style="color:green">Call</a> -->
+    <phone phone-color="Green" phone-number="0782522236" phone-text="contact"></phone>
+    <hr />
+    <custom-btn icon="fa-sharp fa-solid fa-paper-plane" type="submit" text="envoyer"></custom-btn>
+    <custom-btn icon="fa-solid fa-floppy-disk" type="update" text="mis a jour"></custom-btn>
+    <custom-btn icon="fa-solid fa-trash" type="delete" text="suppression"></custom-btn>
+
+    <!-- <button class="btn submit">submit</button>-->
+</body>
+</html>

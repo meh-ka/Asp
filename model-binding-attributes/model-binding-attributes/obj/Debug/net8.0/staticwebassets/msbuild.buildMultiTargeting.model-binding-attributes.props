@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\model-binding-attributes.props" />
+</Project>

@@ -1,0 +1,67 @@
+﻿@model HelperTag.Models.Person
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Info</title>
+</head>
+<body>
+    <form asp-action="Info" asp-controller="User" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div>
+            <label asp-for="Id"></label>
+            <input asp-for="Id" />
+            <span asp-validation-for="Id" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Family"></label>
+            <input asp-for="Family" />
+            <span asp-validation-for="Family" class="text-danger"></span>
+        </div>
+        
+       @*@ <div>
+            <label asp-for="Gender"></label>
+            <input asp-for="Gender" />
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>*@
+        <div>
+            <label asp-for="Gender"></label>
+            <select asp-for="Gender">
+                <option value= true>M.</option>
+                <option value= false >Mme</option>
+            </select>
+
+        </div>
+        <hr />
+        <div>
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+       
+        <div>
+            <div asp-validation-summary="All" style="color:red"></div>
+        </div>
+
+        <div>
+            <input type="submit" value="Envoyer" />
+        </div>
+    </form>
+    <a asp-action="Index" asp-controller="Home" asp-route-id="100">Home page</a>
+    <cache expires-after="@TimeSpan.FromSeconds(10)">
+        @DateTime.Now
+    </cache>
+    @section Scripts {
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@3.2.12/dist/jquery.validate.unobtrusive.min.js"></script>
+    }
+</body>
+</html>

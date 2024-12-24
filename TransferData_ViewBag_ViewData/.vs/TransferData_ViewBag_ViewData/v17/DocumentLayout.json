@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|c:\\users\\yaxi5\\desktop\\asp\\transferdata_viewbag_viewdata\\transferdata_viewbag_viewdata\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|solutionrelative:transferdata_viewbag_viewdata\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|c:\\users\\yaxi5\\desktop\\asp\\transferdata_viewbag_viewdata\\transferdata_viewbag_viewdata\\controllers\\viewbagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|solutionrelative:transferdata_viewbag_viewdata\\controllers\\viewbagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|c:\\users\\yaxi5\\desktop\\asp\\transferdata_viewbag_viewdata\\transferdata_viewbag_viewdata\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|solutionrelative:transferdata_viewbag_viewdata\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|c:\\users\\yaxi5\\desktop\\asp\\transferdata_viewbag_viewdata\\transferdata_viewbag_viewdata\\controllers\\viewdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|solutionrelative:transferdata_viewbag_viewdata\\controllers\\viewdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|c:\\users\\yaxi5\\desktop\\asp\\transferdata_viewbag_viewdata\\transferdata_viewbag_viewdata\\views\\viewdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97DDAE0-AC65-49E2-AED8-CA7FC41DC5B4}|TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData.csproj|solutionrelative:transferdata_viewbag_viewdata\\views\\viewdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "TransferData_ViewBag_ViewData\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "TransferData_ViewBag_ViewData\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T21:39:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "TransferData_ViewBag_ViewData\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\TestController.cs",
+              "RelativeToolTip": "TransferData_ViewBag_ViewData\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:38:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewBagController.cs",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\ViewBagController.cs",
+              "RelativeDocumentMoniker": "TransferData_ViewBag_ViewData\\Controllers\\ViewBagController.cs",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\ViewBagController.cs",
+              "RelativeToolTip": "TransferData_ViewBag_ViewData\\Controllers\\ViewBagController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:21:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Views\\ViewData\\Index.cshtml",
+              "RelativeDocumentMoniker": "TransferData_ViewBag_ViewData\\Views\\ViewData\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Views\\ViewData\\Index.cshtml",
+              "RelativeToolTip": "TransferData_ViewBag_ViewData\\Views\\ViewData\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T21:00:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewDataController.cs",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\ViewDataController.cs",
+              "RelativeDocumentMoniker": "TransferData_ViewBag_ViewData\\Controllers\\ViewDataController.cs",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\TransferData_ViewBag_ViewData\\TransferData_ViewBag_ViewData\\Controllers\\ViewDataController.cs",
+              "RelativeToolTip": "TransferData_ViewBag_ViewData\\Controllers\\ViewDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:59:23.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

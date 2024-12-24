@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|c:\\users\\yaxi5\\desktop\\asp\\querystring\\querystring\\views\\blog\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|solutionrelative:querystring\\views\\blog\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|c:\\users\\yaxi5\\desktop\\asp\\querystring\\querystring\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|solutionrelative:querystring\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|c:\\users\\yaxi5\\desktop\\asp\\querystring\\querystring\\views\\blog\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|solutionrelative:querystring\\views\\blog\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|c:\\users\\yaxi5\\desktop\\asp\\querystring\\querystring\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D330E8-6D88-4857-9940-FE74A1819C65}|QueryString\\QueryString.csproj|solutionrelative:querystring\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\index3.cshtml",
+              "RelativeDocumentMoniker": "QueryString\\Views\\Blog\\index3.cshtml",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\index3.cshtml",
+              "RelativeToolTip": "QueryString\\Views\\Blog\\index3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T17:18:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\index2.cshtml",
+              "RelativeDocumentMoniker": "QueryString\\Views\\Blog\\index2.cshtml",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\index2.cshtml",
+              "RelativeToolTip": "QueryString\\Views\\Blog\\index2.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T17:00:47.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "QueryString\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "QueryString\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:39:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "QueryString\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\yaxi5\\Desktop\\Asp\\QueryString\\QueryString\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "QueryString\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:32:08.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

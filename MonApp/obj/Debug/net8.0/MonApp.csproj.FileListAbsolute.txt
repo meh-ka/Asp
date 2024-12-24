@@ -1,0 +1,14 @@
+C:\Users\yaxi5\Desktop\Asp\MonApp\bin\Debug\net8.0\MonApp.exe
+C:\Users\yaxi5\Desktop\Asp\MonApp\bin\Debug\net8.0\MonApp.deps.json
+C:\Users\yaxi5\Desktop\Asp\MonApp\bin\Debug\net8.0\MonApp.runtimeconfig.json
+C:\Users\yaxi5\Desktop\Asp\MonApp\bin\Debug\net8.0\MonApp.dll
+C:\Users\yaxi5\Desktop\Asp\MonApp\bin\Debug\net8.0\MonApp.pdb
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.AssemblyInfoInputs.cache
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.AssemblyInfo.cs
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.csproj.CoreCompileInputs.cache
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.dll
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\refint\MonApp.dll
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.pdb
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\MonApp.genruntimeconfig.cache
+C:\Users\yaxi5\Desktop\Asp\MonApp\obj\Debug\net8.0\ref\MonApp.dll
