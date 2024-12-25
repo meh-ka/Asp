@@ -1,12 +1,5 @@
-# Fichiers et dossiers générés par Visual Studio
-.vs/
-*.user
-*.suo
-
-# Fichiers de build
-bin/
-obj/
-
-# Cache et autres fichiers temporaires
-*.cache
-*.editorconfig
+echo .vs/ > .gitignore
+echo obj/ >> .gitignore
+echo bin/ >> .gitignore
+echo *.cache >> .gitignore
+echo *.editorconfig >> .gitignore
