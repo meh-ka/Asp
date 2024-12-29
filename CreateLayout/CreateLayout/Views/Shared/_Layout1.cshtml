@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html dir="Ltr" lang="fr-fr">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ViewData["Title"]</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" asp-append-version="true" rel="stylesheet" />
+    @await RenderSectionAsync("css", false)
+</head>
+<body>
+    <div class="container-fluid min-vh-100 d-flex flex-column">
+        <!-- Header -->
+        <div class="row">
+            <div class="col text-white bg-danger p-5 text-center">
+                @await RenderSectionAsync("HederText", false)
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="row flex-grow-1">
+            <!-- Sidebar -->
+            <div class="col-2 bg-primary">
+                Sidebar
+            </div>
+            <!-- Body -->
+            <div class="col-10 bg-secondary">
+                @RenderBody()
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="row">
+            <div class="col text-white bg-danger p-2 text-center">Footer</div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("script", false)
+</body>
+</html>
