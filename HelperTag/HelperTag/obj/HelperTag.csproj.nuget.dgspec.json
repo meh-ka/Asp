@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaxi5\\Desktop\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj": {}
+    "D:\\git\\pro\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaxi5\\Desktop\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj": {
+    "D:\\git\\pro\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaxi5\\Desktop\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj",
+        "projectUniqueName": "D:\\git\\pro\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj",
         "projectName": "HelperTag",
-        "projectPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj",
+        "projectPath": "D:\\git\\pro\\Asp\\HelperTag\\HelperTag\\HelperTag.csproj",
         "packagesPath": "C:\\Users\\yaxi5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\HelperTag\\HelperTag\\obj\\",
+        "outputPath": "D:\\git\\pro\\Asp\\HelperTag\\HelperTag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yaxi5\\AppData\\Roaming\\NuGet\\NuGet.Config",

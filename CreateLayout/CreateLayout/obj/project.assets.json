@@ -5571,11 +5571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaxi5\\source\\repos\\CreateLayout\\CreateLayout\\CreateLayout.csproj",
+      "projectUniqueName": "D:\\git\\pro\\Asp\\CreateLayout\\CreateLayout\\CreateLayout.csproj",
       "projectName": "CreateLayout",
-      "projectPath": "C:\\Users\\yaxi5\\source\\repos\\CreateLayout\\CreateLayout\\CreateLayout.csproj",
+      "projectPath": "D:\\git\\pro\\Asp\\CreateLayout\\CreateLayout\\CreateLayout.csproj",
       "packagesPath": "C:\\Users\\yaxi5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaxi5\\source\\repos\\CreateLayout\\CreateLayout\\obj\\",
+      "outputPath": "D:\\git\\pro\\Asp\\CreateLayout\\CreateLayout\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yaxi5\\AppData\\Roaming\\NuGet\\NuGet.Config",

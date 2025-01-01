@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMg5dlnvZ8Q=",
+  "dgSpecHash": "9ue/6xdHrIY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yaxi5\\Desktop\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
+  "projectFilePath": "D:\\git\\pro\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaxi5\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\yaxi5\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

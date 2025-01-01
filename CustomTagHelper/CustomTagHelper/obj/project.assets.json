@@ -5571,11 +5571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaxi5\\Desktop\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
+      "projectUniqueName": "D:\\git\\pro\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
       "projectName": "CustomTagHelper",
-      "projectPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
+      "projectPath": "D:\\git\\pro\\Asp\\CustomTagHelper\\CustomTagHelper\\CustomTagHelper.csproj",
       "packagesPath": "C:\\Users\\yaxi5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaxi5\\Desktop\\Asp\\CustomTagHelper\\CustomTagHelper\\obj\\",
+      "outputPath": "D:\\git\\pro\\Asp\\CustomTagHelper\\CustomTagHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yaxi5\\AppData\\Roaming\\NuGet\\NuGet.Config",
