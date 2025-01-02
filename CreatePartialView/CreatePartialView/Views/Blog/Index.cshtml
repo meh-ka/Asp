@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>XOM</h1>
+@* 
+@{
+    await Html.RenderPartialAsync("Partials/_BlogPartial" );
+}
+<br />
+<hr />
+
+<br /> 
+<hr />*@
+
+@{
+    ViewData["Message"] = "Voici une message pour le teste !";
+}
+<partial name="Partials/_BlogPartial" />
+<br />
+<hr />
