@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@await Component.InvokeAsync("First", new { Text = "EnterMath " })
+
+@await Component.InvokeAsync("Product", new ProductModel{
+    Id=1,
+    Name="Math 5",
+    Description="Description",
+    Price=500
+})
+
+@await Component.InvokeAsync("BestSelling", new { Title = "meilleur score" })
