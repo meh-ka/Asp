@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\pro\\Asp\\AdvancedValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB98E4AA-DB6E-4E58-978A-E0D5E52F4E3F}|AdvancedValidation\\AdvancedValidation.csproj|d:\\git\\pro\\asp\\advancedvalidation\\advancedvalidation\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB98E4AA-DB6E-4E58-978A-E0D5E52F4E3F}|AdvancedValidation\\AdvancedValidation.csproj|solutionrelative:advancedvalidation\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\git\\pro\\Asp\\AdvancedValidation\\AdvancedValidation\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvancedValidation\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\git\\pro\\Asp\\AdvancedValidation\\AdvancedValidation\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AdvancedValidation\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T21:27:18.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
